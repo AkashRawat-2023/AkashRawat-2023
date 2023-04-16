@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AkashRawat-2023<br>👀 I’m interested in ... Coding & Problem Solving<br>🌱 I’m currently learning ... Java/Full Stack web devploment<br>💞️ I’m looking to collaborate on ... Projects<br>📫 How to reach me ... aki11.akash@gmail.com
+👋 Hi, I’m @AkashRawat-2023<br>👀 I’m interested in ... Coding & Problem Solving<br>🌱 I’m currently learning ... Java/Full Stack web devploment<br>💞️ I’m looking to collaborate on ... Projects<br>📫 How to reach me ... akashrawat1969@gmail.com
 
 
 # 💻 Tech Stack:
